@@ -1,2 +1,2 @@
 # Homie
-This is my homelab. I named it 'homie'
+My name is Sowmith Kuppa. This is my home lab setup. I experiment things here.
